@@ -6,9 +6,9 @@ Project related with 2019, SASA 정보과학프로젝트1 : Data Visualization P
 
 > #### 이 프로젝트에서 이용하는 데이터(data)는  
 - 기간 : 2014년~2017년(대부분 연도별)  
-- 자료 구성 : KOSIS(국가통계포털)  
-중증외상(ICISS_2008 기반) 환자 수([성별,연령별, 월별](http://kosis.kr/statisticsList/statisticsListIndex.do?menuId=M_01_01&vwcd=MT_ZTITLE&parmTabId=M_01_01#SelectStatsBoxDiv)) & ([시도별](http://kosis.kr/statisticsList/statisticsListIndex.do?menuId=M_01_01&vwcd=MT_ZTITLE&parmTabId=M_01_01#SelectStatsBoxDiv))  
-중증외상(ICISS_2008 기반) 환자의 발병 후 응급실 도착 소요시간 현황 ([성별, 연령별, 월별](http://kosis.kr/statisticsList/statisticsListIndex.do?menuId=M_01_01&vwcd=MT_ZTITLE&parmTabId=M_01_01#SelectStatsBoxDiv)) & ([시도별](http://kosis.kr/statisticsList/statisticsListIndex.do?menuId=M_01_01&vwcd=MT_ZTITLE&parmTabId=M_01_01#SelectStatsBoxDiv))  
+- 자료 구성 : [KOSIS(국가통계포털)](http://kosis.kr/statisticsList/statisticsListIndex.do?menuId=M_01_01&vwcd=MT_ZTITLE&parmTabId=M_01_01#SelectStatsBoxDiv)  
+중증외상(ICISS_2008 기반) 환자 수(성별,연령별, 월별) & (시도별)  
+중증외상(ICISS_2008 기반) 환자의 발병 후 응급실 도착 소요시간 현황 (성별, 연령별, 월별) & (시도별)  
 중증외상(ICISS_2008 기반) 환자의 응급실 내원수단 현황(성별, 연령별) & (시도별)    
 중증외상(ICISS_2008 기반) 환자의 응급진료 결과 현황(성별, 연령별) & (시도별)  
 중증외상(ICISS_2015 기반) 환자의 병원 내 사망시점(성별, 연령별) & (시도별)  
