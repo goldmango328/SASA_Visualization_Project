@@ -21,6 +21,7 @@ Project related with 2019, SASA 정보과학프로젝트1 : Data Visualization P
   이러한 문제점을 데이터 시각화를 통해 나타내고, 사용자 상호작용(User Interaction)을 통해서 심각성을 개인적인 자료의 형태로 전해주어 문제의 심각성을 경험의 형태로 드러나는 프로그램을 개발하고자 한다.   
   
 ## Project Plan  
+![정과프](https://user-images.githubusercontent.com/42968884/58443468-03df7b80-812d-11e9-9bca-3ba169c12ce7.JPG)
 
 ## Records  
 Date : 2019.05.28.  
