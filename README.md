@@ -39,4 +39,4 @@ Edit :
 Date : 2019.05.29. (class)  
 Edit :  
 - Add explanations(about ICISS)  
-- Download Datas (& add more datas than the original)  
+- Download Data (& add more datas than the original)  
