@@ -18,6 +18,7 @@ Project related with 2019, SASA 정보과학프로젝트1 : Data Visualization P
   ICISS는 국제표준질병사인분류(International Classification of Disease, ICD)를 기반으로 산출하며 국제표준질병사인으로
 분류된 특정 손상환자 상병코드별(S, T code) 기대생존확률(Survival Rate Ratio, SRR)값을 곱하여 계산한다. 상병코드는
 최대 10개까지의 손상진단을 곱하여 계산할 수 있다.  
+![iciss](https://user-images.githubusercontent.com/42968884/58524880-acacda00-8204-11e9-8fd0-4df793d925d1.JPG)  
   ICISS 점수는 0부터 1까지의 범위를 가지며, 중증도가 낮은 손상은 높은 생존 확률 값을 갖고 중증도가 높은 손상은 낮은
 생존 확률 값을 가져 중증도 지표뿐 아니라 손상환자 생존율 예측을 보여준다. 
 
@@ -30,7 +31,12 @@ Project related with 2019, SASA 정보과학프로젝트1 : Data Visualization P
 ![정과프](https://user-images.githubusercontent.com/42968884/58443468-03df7b80-812d-11e9-9bca-3ba169c12ce7.JPG)
 
 ## Records  
-Date : 2019.05.28.  
+Date : 2019.05.28. (1hour)
 Edit :  
 - Create repository  
-- SetUp Plans
+- SetUp Plans  
+--------------------------------  
+Date : 2019.05.29. (class)  
+Edit :  
+- Add explanations(about ICISS)  
+- Download Datas (& add more datas than the original)  
