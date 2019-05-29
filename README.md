@@ -14,7 +14,7 @@ Project related with 2019, SASA 정보과학프로젝트1 : Data Visualization P
 중증외상(ICISS_2015 기반) 환자의 병원 내 사망시점(성별, 연령별) & (시도별)  
 중증외상(ICISS_2015 기반) 환자의 사망장소 (성별,연령별) & (시도별)  
 
-> #### ICISS란  
+> #### ICISS(ICD-9-based Injury Severity Score)란  
   ICISS는 국제표준질병사인분류(International Classification of Disease, ICD)를 기반으로 산출하며 국제표준질병사인으로
 분류된 특정 손상환자 상병코드별(S, T code) 기대생존확률(Survival Rate Ratio, SRR)값을 곱하여 계산한다. 상병코드는
 최대 10개까지의 손상진단을 곱하여 계산할 수 있다.  
