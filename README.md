@@ -45,4 +45,6 @@ Edit :
 --------------------------------  
 Date : 2019.05.30. (4hour)  
 Edit :  
-- process Data  
+- Data Processing DONE!  
+- Working on First_Page :: User Interaction  
+
