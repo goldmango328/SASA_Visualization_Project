@@ -32,6 +32,8 @@ Project related with 2019, SASA 정보과학프로젝트1 : Data Visualization P
 ## Project Plan  
 ![정과프](https://user-images.githubusercontent.com/42968884/58443468-03df7b80-812d-11e9-9bca-3ba169c12ce7.JPG)
 
+## ScreenShots  
+
 ## Records  
 Date : 2019.05.28. (1hour)  
 Edit :  
@@ -47,4 +49,9 @@ Date : 2019.05.30. (4hour)
 Edit :  
 - Data Processing DONE!  
 - Working on First_Page :: User Interaction  
+--------------------------------  
+Date : 2019.05.31. (2hour)  
+Edit :  
+- Working on First_Page :: Done!   
+- moving onto First_Result_Screen  
 
