@@ -33,6 +33,7 @@ Project related with 2019, SASA 정보과학프로젝트1 : Data Visualization P
 ![정과프](https://user-images.githubusercontent.com/42968884/58443468-03df7b80-812d-11e9-9bca-3ba169c12ce7.JPG)
 
 ## ScreenShots  
+![fig1 first_screen](https://user-images.githubusercontent.com/42968884/58682565-0b608800-83ac-11e9-8d22-64797efedf97.JPG)  
 
 ## Records  
 Date : 2019.05.28. (1hour)  
