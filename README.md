@@ -51,7 +51,8 @@ Edit :
 - Data Processing DONE!  
 - Working on First_Page :: User Interaction  
 --------------------------------  
-Date : 2019.05.31. (2hour)  
+Date : 2019.05.31. (6hour)  
 Edit :  
 - Working on First_Page :: Done!   
 - moving onto First_Result_Screen  
+- Working on First_Result_Screen  
