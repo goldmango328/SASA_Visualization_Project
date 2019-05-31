@@ -55,4 +55,3 @@ Date : 2019.05.31. (2hour)
 Edit :  
 - Working on First_Page :: Done!   
 - moving onto First_Result_Screen  
-******  
