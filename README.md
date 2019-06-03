@@ -56,3 +56,7 @@ Edit :
 - Working on First_Page :: Done!   
 - moving onto First_Result_Screen  
 - Working on First_Result_Screen  
+--------------------------------  
+Date : 2019.06.03. (2hour)  
+Edit :  
+- Working on First_Result_Screen  
