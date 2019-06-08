@@ -60,3 +60,8 @@ Edit :
 Date : 2019.06.03. (2hour)  
 Edit :  
 - Working on First_Result_Screen  
+--------------------------------  
+Date : 2019.06.08. (6hour)  
+Edit :  
+- Working on First_Result_Screen  
+- Making Drag and Select func  
