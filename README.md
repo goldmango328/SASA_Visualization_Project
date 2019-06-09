@@ -61,7 +61,11 @@ Date : 2019.06.03. (2hour)
 Edit :  
 - Working on First_Result_Screen  
 --------------------------------  
-Date : 2019.06.08. (6hour)  
+Date : 2019.06.08. (10hour)  
 Edit :  
 - Working on First_Result_Screen  
 - Making Drag and Select func  
+--------------------------------  
+Date : 2019.06.09. (4hour)  
+Edit :  
+- Working on Second_Screen : make mapChart(class)  
